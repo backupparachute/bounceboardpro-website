@@ -1,0 +1,20 @@
+title: Bounce Board Pro
+description: A fully adjustable, high-rebound training board designed for modern table tennis players.
+url: https://bounceboardpro.com
+baseurl: ""
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
